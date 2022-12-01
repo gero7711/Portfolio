@@ -1,0 +1,95 @@
+#image-responsive {
+    height: 100px;
+    width: 150px;
+    position: relative;
+    top: 5px;
+}
+.list-group-item{
+    margin-left: 100px;
+    border: none;
+    font-family: 'Montserrat', sans-serif;
+}
+.list-group{
+    margin-top: 40px;
+}
+#second_row{
+    margin-top: 40px;
+}
+
+#size-box-logo{
+height: 120px;
+width: 170px;
+}
+#size-box-me{
+    height: 5in;   
+    width: 3in;
+}
+#space-col{
+    margin-top: 150px;
+
+
+}
+
+.size_of_picture{
+    width: 200px;
+    height: 100px;
+}
+
+#c1{
+margin-left: 260px;
+}
+#c2{
+    margin-left: 150px;
+    }
+
+#c4{
+    margin-left: 150px;
+        }
+
+#c5{
+    margin-left: 260px;
+    }
+
+ul li{
+
+    list-style-type: none;
+    display: inline-block;
+}
+
+
+.fa-brands{
+    color: black;
+    font-size: 2rem;
+}
+
+
+.box-for-text{
+    padding-left: 50px;
+}
+
+#third-row{
+margin-top: 3in;
+border-top: 2px solid black;
+}
+
+.box-for-me{
+    height: 4in;
+    width: 3in;
+}
+
+.for_skills_bg{
+    background-color: black; color:aliceblue
+}
+
+#fifth-row{
+    margin-top: 1in;
+    border-top: 2px solid black;
+    margin-bottom: 4in;
+}
+
+.size-bootcamps{
+width: 3in;
+height: 2in;
+}
+
+
